@@ -1,3 +1,3 @@
-1. git pull this repo
+1. git clone this repo
 2. yarn install
 3. yarn start
